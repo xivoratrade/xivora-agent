@@ -1,7 +1,6 @@
 import Hero from "@/components/Hero";
 import Features from "@/components/Features";
-import TokenScanner from "@/components/TokenScanner";
-import BotCard from "@/components/BotCard";
+import MarketGrid from "@/components/MarketGrid";
 import PortfolioOverview from "@/components/PortfolioOverview";
 
 export default function Home() {
@@ -9,8 +8,7 @@ export default function Home() {
     <>
       <Hero />
       <Features />
-      <TokenScanner />
-      <BotCard />
+      <MarketGrid />
       <PortfolioOverview />
     </>
   );
