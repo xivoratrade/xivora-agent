@@ -272,7 +272,7 @@ Execute.
 
 Website: https://xivora.trade
 
-X: https://x.com/xivoratrade
+X: https://x.com/
 
 ---
 
