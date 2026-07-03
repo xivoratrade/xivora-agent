@@ -1,10 +1,10 @@
 const features = [
-  "Real-Time Token Scanner",
-  "AI Trading Bots",
-  "No-Code Strategy Builder",
-  "Portfolio Dashboard",
-  "Risk Management",
-  "Solana Native"
+  "Unified Dashboard",
+  "Prediction Aggregation",
+  "AI Trade Routing",
+  "Portfolio Analytics",
+  "Real-Time Markets",
+  "Optimal Execution"
 ];
 
 export default function Features() {
